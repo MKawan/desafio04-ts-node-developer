@@ -1,4 +1,4 @@
-#Projeto desenvolvido com conceitos intermediários de typescript nodejs
+# Projeto desenvolvido com conceitos intermediários de typescript nodejs
 ##Tecnologias
     Typescript
 ##Como rodar o projeto
